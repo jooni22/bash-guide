@@ -1,6 +1,109 @@
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/2059754/24601246/753a7f36-1858-11e7-9d6b-7a0e64fb27f7.png" alt="bash logo"/>
 </p>
+# List
+
+## 1.1 File Operations
+<table>
+   <tr>
+      <td><a href="#a-cat">cat</a></td>
+      <td><a href="#b-chmod">chmod</a></td>
+      <td><a href="#c-chown">chown</a></td>
+      <td><a href="#d-cp">cp</a></td>
+      <td><a href="#e-diff">diff</a></td>
+      <td><a href="#f-file">file</a></td>
+      <td><a href="#g-find">find</a></td>
+      <td><a href="#h-gunzip">gunzip</a></td>
+      <td><a href="#i-gzcat">gzcat</a></td>
+      <td><a href="#j-gzip">gzip</a></td>
+      <td><a href="#k-head">head</a></td>
+   </tr>
+   <tr>
+      <td><a href="#l-lpq">lpq</a></td>
+      <td><a href="#m-lpr">lpr</a></td>
+      <td><a href="#n-lprm">lprm</a></td>
+      <td><a href="#o-ls">ls</a></td>
+      <td><a href="#p-more">more</a></td>
+      <td><a href="#q-mv">mv</a></td>
+      <td><a href="#r-rm">rm</a></td>
+      <td><a href="#s-tail">tail</a></td>
+      <td><a href="#t-touch">touch</a></td>
+   </tr>
+</table>
+
+## 1.2. Text Operations
+<table>
+    <tr>
+      <td><a href="#a-awk">awk</a></td>
+      <td><a href="#b-cut">cut</a></td>
+      <td><a href="#c-echo">echo</a></td>
+      <td><a href="#d-egrep">egrep</a></td>
+      <td><a href="#e-fgrep">fgrep</a></td>
+      <td><a href="#f-fmt">fmt</a></td>
+      <td><a href="#g-grep">grep</a></td>
+      <td><a href="#h-nl">nl</a></td>
+      <td><a href="#i-sed">sed</a></td>
+      <td><a href="#j-sort">sort</a></td>
+   </tr>
+   <tr>
+      <td><a href="#k-tr">tr</a></td>
+      <td><a href="#l-uniq">uniq</a></td>
+      <td><a href="#m-wc">wc</a></td>
+   </tr>
+</table>
+
+## 1.3. Directory Operations
+<table>
+   <tr>
+      <td><a href="#a-cd">cd</a></td>
+      <td><a href="#b-mkdir">mkdir</a></td>
+      <td><a href="#c-pwd">pwd</a></td>
+   </tr>
+</table>
+
+## 1.4. SSH, System Info & Network Operations
+<table>
+   <tr>
+      <td><a href="#a-bg">bg</a></td>
+      <td><a href="#b-cal">cal</a></td>
+      <td><a href="#c-date">date</a></td>
+      <td><a href="#d-df">df</a></td>
+      <td><a href="#e-dig">dig</a></td>
+      <td><a href="#f-du">du</a></td>
+      <td><a href="#g-fg">fg</a></td>
+      <td><a href="#h-finger">finger</a></td>   
+      <td><a href="#i-jobs">jobs</a></td>
+      <td><a href="#j-last">last</a></td>
+   </tr>
+   <tr>
+      <td><a href="#k-man">man</a></td>
+      <td><a href="#l-passwd">passwd</a></td>
+      <td><a href="#m-ping">ping</a></td>
+      <td><a href="#n-ps">ps</a></td>
+      <td><a href="#o-quota">quota</a></td>
+      <td><a href="#p-scp">scp</a></td>
+      <td><a href="#q-ssh">ssh</a></td>
+      <td><a href="#r-top">top</a></td>
+      <td><a href="#s-uname">uname</a></td>
+      <td><a href="#t-uptime">uptime</a></td>
+   </tr>
+   <tr>
+      <td><a href="#u-w">w</a></td>
+      <td><a href="#v-wget">wget</a></td>
+      <td><a href="#w-whoami">whoami</a></td>
+      <td><a href="#x-whois">whois</a></td>
+   </tr>
+</table>
+
+## 1.5. Process Monitoring Operations
+<table>
+   <tr>
+      <td><a href="#a-kill">kill</a></td>
+      <td><a href="#b-killall">killall</a></td>
+      <td><a href="#c-">&amp;</a></td>
+      <td><a href="#d-nohup">nohup</a></td>
+   </tr>
+</table>
 
 # 1. Basic Operations
 
